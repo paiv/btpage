@@ -301,6 +301,7 @@
 				C445C22A1EA8BD1D00EF8CE1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
